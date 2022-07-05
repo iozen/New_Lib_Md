@@ -1,0 +1,1 @@
+mysql -u a -p netip -e "select * from mark"

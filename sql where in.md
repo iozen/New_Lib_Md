@@ -1,0 +1,1 @@
+ SELECT * FROM `members` WHERE `membership_number` IN (1,2,3); 
