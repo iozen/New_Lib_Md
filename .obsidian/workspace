@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "90e6dc15256b8c5d",
+        "id": "332ce55073883192",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lozove",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 274
   },
   "right": {
     "id": "41ccae50286d4a8a",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90e6dc15256b8c5d",
+  "active": "332ce55073883192",
   "lastOpenFiles": [
-    "yii2 migration insert value.md",
-    "links.md",
-    "home/a/acounts/lozove/lozove_site_admin.md",
-    "yii2 register page.md",
-    "yii panel default admin user create migration.md",
-    "install server debian 11 nginx php mariadb yii2.md",
-    "install nginx php debian 11.md",
+    "links torx.md",
+    "Git.md",
     "install site.md",
-    "connect yii2 advanced to db.md",
-    "create new database and user.md"
+    "git create remote rep створити сервер видалений репозиторій.md",
+    "git add memory.md",
+    "links.md",
+    "yii2 register page.md",
+    "yii2 migration insert value.md",
+    "home/a/acounts/lozove/lozove_site_admin.md",
+    "yii panel default admin user create migration.md"
   ]
 }
