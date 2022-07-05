@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6efa0898e3f84637",
+        "id": "e3241da4c7f06d2c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#install #server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6efa0898e3f84637",
+  "active": "e3241da4c7f06d2c",
   "lastOpenFiles": [
     "install server debian 11 nginx php mariadb yii2.md",
-    "FTP server debian vsftpd.md",
-    "sql table details.md",
-    "sql select sum.md",
-    "sql select from 2 tables.md",
-    "sql rename table.md",
+    "install nginx php debian 11.md",
+    "install site.md",
+    "connect yii2 advanced to db.md",
     "create new database and user.md",
-    "maridb.md",
-    "site load testing siege тестування сайта.md",
-    "download website скачування сайта.md"
+    "mysql remote connect.md",
+    "mysql create table.md",
+    "mysql change engine.md",
+    "mpv.md",
+    "maridb.md"
   ]
 }

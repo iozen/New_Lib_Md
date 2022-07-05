@@ -1,3 +1,5 @@
+#replace #global
+
 sed -i 's/foo/bar/g' *
 Вхождения "foo" будут заменены на "bar".
 
