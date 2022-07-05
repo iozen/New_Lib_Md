@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "48262b3d6d113194",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81d125db541588e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Grep.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ddbccc6a381c0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5bd5397844913ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08fbc3671d3fe493",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df3803f6e557a899",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41ccae50286d4a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7f06b14e4b0d58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbf7a85a59f69c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d81d125db541588e",
+  "lastOpenFiles": [
+    "Grep.md",
+    "Vim.md",
+    "01_Template.md",
+    "videos/як шукати в телеграм.mp4",
+    "Pasted image 20220705005023.png",
+    "Pasted image 20220705005011.png",
+    "images/Pasted image 20220705004809.png"
+  ]
+}
