@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3241da4c7f06d2c",
+        "id": "90e6dc15256b8c5d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "install server debian 11 nginx php mariadb yii2.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#install #server",
+                "query": "lozove",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267
   },
   "right": {
     "id": "41ccae50286d4a8a",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "install server debian 11 nginx php mariadb yii2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3241da4c7f06d2c",
+  "active": "90e6dc15256b8c5d",
   "lastOpenFiles": [
+    "yii2 migration insert value.md",
+    "links.md",
+    "home/a/acounts/lozove/lozove_site_admin.md",
+    "yii2 register page.md",
+    "yii panel default admin user create migration.md",
     "install server debian 11 nginx php mariadb yii2.md",
     "install nginx php debian 11.md",
     "install site.md",
     "connect yii2 advanced to db.md",
-    "create new database and user.md",
-    "mysql remote connect.md",
-    "mysql create table.md",
-    "mysql change engine.md",
-    "mpv.md",
-    "maridb.md"
+    "create new database and user.md"
   ]
 }
