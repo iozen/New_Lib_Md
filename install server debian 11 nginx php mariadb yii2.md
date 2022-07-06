@@ -40,3 +40,7 @@ ip name-of-site/frontend/web/
 наприклад: 
 0.0.0.0/site/frontend/web/
 ```
+
+## налаштуваня домена 
+
+[налаштування домена](obsidian://open?vault=Lib&file=install%20setup%20domain%20nginx)
