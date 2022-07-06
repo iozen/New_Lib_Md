@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13a31b977836d97c",
+        "id": "5838443da5baa6a8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "install server debian 11 nginx php mariadb yii2.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -48,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "install server debian 11 nginx php mariadb yii2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13a31b977836d97c",
+  "active": "5838443da5baa6a8",
   "lastOpenFiles": [
+    "install_site.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_nginx_php_debian_11.md",
     "install server debian 11 nginx php mariadb yii2.md",
     "install setup domain nginx.md",
-    "links torx.md",
-    "links taledshop.md",
-    "create new database and user.md",
-    "connect yii2 advanced to db.md",
-    "clear table sql.md",
-    "chmod details.md",
-    "Cat.md",
-    "caca video in terminal.md"
+    "install site.md",
+    "install certbot.md",
+    "install composer debain 11.md",
+    "install mariadb debian11.md",
+    "install nginx php debian 11.md"
   ]
 }

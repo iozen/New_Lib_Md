@@ -6,13 +6,13 @@ sudo apt update
 ```
 
 ## встановлення nginx + php
-[Install nginx php](obsidian://open?vault=Lib&file=install%20nginx%20php%20debian%2011)
+[Install nginx php](install_nginx_php_debian_11.md)
 
 ## встановлення mariadb
-[Mariadb install debian11](obsidian://open?vault=Lib&file=install%20mariadb%20debian11)
+[Mariadb install debian11](install_mariadb_debian11.md)
 ## встановлення composer 
  
- [install composer debian 11](obsidian://open?vault=Lib&file=install%20composer%20debain%2011)
+ [install composer debian 11](install_composer_debain_11.md)
 
 ## встановлення  git 
 ```
@@ -24,11 +24,11 @@ sudo apt install git
 sudo apt install vim mc ranger 
 ```
 
-[install Certbot debian 11](obsidian://open?vault=Lib&file=install%20certbot)
+[install Certbot debian 11](install_certbot.md)
 
 
 ## встановлення сайту
-[install yii2 site](obsidian://open?vault=Lib&file=install%20site)
+[install yii2 site](install_site.md)
 
 ## перевірка стану проєкту
 
@@ -43,4 +43,4 @@ ip name-of-site/frontend/web/
 
 ## налаштуваня домена 
 
-[налаштування домена](obsidian://open?vault=Lib&file=install%20setup%20domain%20nginx)
+[налаштування домена](install_setup_domain_nginx.md)
