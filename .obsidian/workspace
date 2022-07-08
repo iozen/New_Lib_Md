@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a31bfc5a3017ddac",
+        "id": "0b7af5ad4f396e33",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#install #server",
+                "query": "#create #database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a31bfc5a3017ddac",
+  "active": "0b7af5ad4f396e33",
   "lastOpenFiles": [
+    "create_new_database_and_user.md",
     "install_server_debian_11_nginx_php_mariadb_yii2.md",
     "Untitled 1.md",
     "git_untrack.md",
@@ -93,7 +94,6 @@
     "vim_regex_vim.md",
     "gitignore.md",
     "git_create_remote_rep.md",
-    "git_add_memory.md",
-    "links.md"
+    "git_add_memory.md"
   ]
 }
