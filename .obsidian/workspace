@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "5838443da5baa6a8",
+        "id": "a31bfc5a3017ddac",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5838443da5baa6a8",
+  "active": "a31bfc5a3017ddac",
   "lastOpenFiles": [
-    "install_site.md",
     "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "install_nginx_php_debian_11.md",
-    "install server debian 11 nginx php mariadb yii2.md",
-    "install setup domain nginx.md",
-    "install site.md",
-    "install certbot.md",
-    "install composer debain 11.md",
-    "install mariadb debian11.md",
-    "install nginx php debian 11.md"
+    "Untitled 1.md",
+    "git_untrack.md",
+    "Git.md",
+    "install_site.md",
+    "vim_regex_vim.md",
+    "gitignore.md",
+    "git_create_remote_rep.md",
+    "git_add_memory.md",
+    "links.md"
   ]
 }
