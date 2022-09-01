@@ -192,3 +192,12 @@ multyfiles in tab
 CTRL + ^
 CTRL+w + CTRL + R
 перемкнути вікна
+
+
+## undo redo відміна
+
+~~~
+u, :u[ndo]                відмена предыдущего действия (undo)
+CTR-R, :red[o]            відмена отмены предыдущего действия (redo)
+
+~~~

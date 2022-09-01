@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7af5ad4f396e33",
+        "id": "c1424dfb48cd517e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#create #database",
+                "query": "ffmpeg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,12 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 311.5
   },
   "right": {
     "id": "41ccae50286d4a8a",
@@ -83,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b7af5ad4f396e33",
+  "active": "08fbc3671d3fe493",
   "lastOpenFiles": [
-    "create_new_database_and_user.md",
-    "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "Untitled 1.md",
-    "git_untrack.md",
-    "Git.md",
-    "install_site.md",
-    "vim_regex_vim.md",
-    "gitignore.md",
-    "git_create_remote_rep.md",
-    "git_add_memory.md"
+    "ffmpeg.md",
+    "zoo/Основні_моменти.md",
+    "zoo/user_room_zoo.md",
+    "vim_config_vimrc.md",
+    "vim_big.md",
+    "imagine_resize.md",
+    "keychron_fkey_fix.md",
+    "facebook_video_download.md",
+    "Vim.md",
+    "install_setup_domain_nginx.md"
   ]
 }
