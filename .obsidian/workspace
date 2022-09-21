@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c1424dfb48cd517e",
+        "id": "11e1c5449d6abbf5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zoo/Основні_моменти.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffmpeg",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zoo/Основні_моменти.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08fbc3671d3fe493",
+  "active": "11e1c5449d6abbf5",
   "lastOpenFiles": [
-    "ffmpeg.md",
-    "zoo/Основні_моменти.md",
     "zoo/user_room_zoo.md",
+    "zoo/Основні_моменти.md",
+    "php_short_foreach.md",
     "vim_config_vimrc.md",
-    "vim_big.md",
-    "imagine_resize.md",
-    "keychron_fkey_fix.md",
-    "facebook_video_download.md",
-    "Vim.md",
-    "install_setup_domain_nginx.md"
+    "git_error.md",
+    "replace_in_files_global_grep+sed_global_replace.md",
+    "full_sed.md",
+    "maridb.md",
+    "sql_alter_table_change_table.md",
+    "rename_change_column.md"
   ]
 }
