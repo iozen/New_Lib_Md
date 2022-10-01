@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zoo/Основні_моменти.md",
+            "file": "yt-dlp.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yt-dlp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zoo/Основні_моменти.md",
+                "file": "yt-dlp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "11e1c5449d6abbf5",
   "lastOpenFiles": [
-    "zoo/user_room_zoo.md",
     "zoo/Основні_моменти.md",
+    "zoo/user_room_zoo.md",
+    "mpv.md",
+    "voice_to_text.md",
     "php_short_foreach.md",
     "vim_config_vimrc.md",
     "git_error.md",
     "replace_in_files_global_grep+sed_global_replace.md",
     "full_sed.md",
-    "maridb.md",
-    "sql_alter_table_change_table.md",
-    "rename_change_column.md"
+    "maridb.md"
   ]
 }

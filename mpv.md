@@ -1,4 +1,4 @@
 no video
 -------------
 
-mpv link_to_youtube_vid --no-video
+mpv  --no-video link_to_youtube_vid
