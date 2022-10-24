@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3ed0aa12e8dd920f",
+        "id": "b4a1820ea06da023",
         "type": "tabs",
         "children": [
           {
-            "id": "529770fb0c1dcc0b",
+            "id": "65e0c25c85ba399c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189.5
+    "width": 200
   },
   "right": {
     "id": "41ccae50286d4a8a",
@@ -93,17 +93,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "529770fb0c1dcc0b",
+  "active": "65e0c25c85ba399c",
   "lastOpenFiles": [
-    "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "crud_generator_yii2.md",
-    "facebook_video_download.md",
-    "replace_in_files_global_grep+sed_global_replace.md",
-    "download_site.md",
-    "zoo/Основні_моменти.md",
-    "zoo_22.10.2022.md",
-    "gooogle-maps-static_.md",
-    "vim_config_vimrc.md",
-    "vim_big.md"
+    "SED_tips.md",
+    "full_sed.md",
+    "caca_video_in_terminal.md",
+    "01_Template.md",
+    "Vim.md",
+    "Vim_tips.md",
+    "vim_big.md",
+    "zoo/Zoo.18-20.md",
+    "zoo/zoo_22.10.2022.md",
+    "videos/Спеціальні задачі які може робити адоб.md"
   ]
 }
