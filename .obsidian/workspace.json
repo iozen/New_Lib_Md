@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a1820ea06da023",
+        "id": "46c3349a13dc5344",
         "type": "tabs",
         "children": [
           {
-            "id": "65e0c25c85ba399c",
+            "id": "874b48a24a0783f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "свобода",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,23 +87,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "65e0c25c85ba399c",
+  "active": "874b48a24a0783f0",
   "lastOpenFiles": [
-    "SED_tips.md",
-    "full_sed.md",
-    "caca_video_in_terminal.md",
-    "01_Template.md",
-    "Vim.md",
-    "Vim_tips.md",
-    "vim_big.md",
-    "zoo/Zoo.18-20.md",
-    "zoo/zoo_22.10.2022.md",
+    "Велика_курка.md",
+    "cal_in_ubuntu-show-date.md",
+    "нейрон-колективний-інтелект.md",
+    "Свобода.md",
+    "zoo/12.11.22.md",
+    "zoo/07.11.2022.md",
+    "zoo/02.11.2022.md",
+    "festival-linux.md",
+    "invent-yourself.md",
     "videos/Спеціальні задачі які може робити адоб.md"
   ]
 }

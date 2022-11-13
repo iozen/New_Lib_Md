@@ -11,7 +11,7 @@ $this->session->data['language'] = 'uk-ua';
 }
 ~~~
 
-додав у таблицю oc_url_alias
+додав у таблицю oc_url_alias                                                                                                                                                                                 
 
 ![[Pasted image 20220726111740.png]]
 

@@ -1,3 +1,6 @@
+#linux #terminal
+
+
 zip dir.zip -r dir
 
 zip target.zip foo.txt bar.txt baz.txt
