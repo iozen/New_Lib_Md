@@ -1,5 +1,7 @@
 
+#site #download #wget #скачати-сайт
 
+~~~bash
 wget \
      --recursive \
      --no-clobber \
@@ -11,12 +13,19 @@ wget \
      --no-parent \
          www.website.org/tutorials/html/
 
-
+~~~
+~~~bash
 wget --recursive --page-requisites --adjust-extension --span-hosts --convert-links --restrict-file-names=windows --domains yoursite.com --no-parent yoursite.com
+~~~
 
+~~~bash
 wget -r -k -l 7 -p -E -nc http://site.com/
+~~~
 
+
+~~~bash
 wget -m -l 10 -e robots=off -p -k -E --reject-regex "wp" --no-check-certificate -U="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"  site-addr.com
+~~~
 
 
 -m (--mirror) - Включает рекурсию (чуть ли не до бесконечного погружения) и сохраняет списки каталогов
@@ -28,11 +37,14 @@ wget -m -l 10 -e robots=off -p -k -E --reject-regex "wp" --no-check-certificate 
 -U (--user-agent) - Я думаю тут объяснять особо не нужно :)
 --reject-regex - Исключает скачивание файлов, в которых есть часть их значения reject-regex. Почему я это добавил? Потому что я ненавижу скачивать страницы на wordpress. Это долго, очень много файлов и я не люблю wordpress. Тапками не бросаться!
 
+
 ## no-check-certificate - Не производится проверка сертификата сервера с доступными центрами сертификации
 
 
 ## one page wget download
 
+~~~bash
 wget -E -H -k -K -p http://www.example.com/
+~~~
 
 

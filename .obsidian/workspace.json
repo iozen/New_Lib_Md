@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f74c465b3a2f5c9",
+        "id": "61a35aca9fcc6b31",
         "type": "tabs",
         "children": [
           {
-            "id": "f50beaeb47250c17",
+            "id": "b5bf1f54530f9322",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yii2_telegram_integraion.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yii",
+                "query": "wget",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yii2_telegram_integraion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +90,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08fbc3671d3fe493",
+  "active": "b5bf1f54530f9322",
   "lastOpenFiles": [
+    "download_site.md",
+    "php_short_foreach.md",
+    "network_interfaces.md",
+    "yii2-migrate-longtext.md",
+    "yii2_telegram_integraion.md",
     "yii2_migration_insert_value.md",
     "yii_panel_default_admin_user_create_migration.md",
     "install_site.md",
     "install_setup_domain_nginx.md",
-    "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "crud_generator_yii2.md",
-    "connect_yii2_advanced_to_db.md",
-    "Сильна-людина.md",
-    "php_short_foreach.md",
-    "Тупість.md"
+    "install_server_debian_11_nginx_php_mariadb_yii2.md"
   ]
 }
