@@ -2,6 +2,11 @@
 #site #download #wget #скачати-сайт
 
 ~~~bash
+wget -r -k -l 7 -p -E -nc http://site.com/
+~~~
+
+
+~~~bash
 wget \
      --recursive \
      --no-clobber \
@@ -16,10 +21,6 @@ wget \
 ~~~
 ~~~bash
 wget --recursive --page-requisites --adjust-extension --span-hosts --convert-links --restrict-file-names=windows --domains yoursite.com --no-parent yoursite.com
-~~~
-
-~~~bash
-wget -r -k -l 7 -p -E -nc http://site.com/
 ~~~
 
 
