@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "736e3d1d164d21e5",
+        "id": "34358c46c1c202ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3df5da59b2ef1bc2",
+            "id": "c5c79b5b7ffe04f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "chmod_details.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d65b8f9f68eeef20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yii2_how_put_data_layouts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foreach",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "yii2_how_put_data_layouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3df5da59b2ef1bc2",
+  "active": "d65b8f9f68eeef20",
   "lastOpenFiles": [
-    "php_short_foreach.md",
-    "table_bootstrap_html.md",
-    "custom_layout_yii2_controller.md",
-    "install_yii2_ckeditor_elfinder_redactor.md",
-    "download_site.md",
-    "network_interfaces.md",
+    "chmod_details.md",
+    "STDIN_STDOUT.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_composer_debain_11.md",
+    "enegry/start_kit_enegry.md",
+    "enegry/розрахунок-ємкості.md",
+    "power.md",
     "yii2-migrate-longtext.md",
-    "yii2_telegram_integraion.md",
-    "yii2_migration_insert_value.md",
-    "yii_panel_default_admin_user_create_migration.md"
+    "table_bootstrap_html.md",
+    "html_table_td_th.md"
   ]
 }
