@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f94edd56db7b6d98",
+        "id": "14131ee80d0275c0",
         "type": "tabs",
         "children": [
           {
-            "id": "6ea5307665cded64",
+            "id": "f134603919182de5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chmod_details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df3803f6e557a899",
+  "active": "f134603919182de5",
   "lastOpenFiles": [
+    "yii2-migrate-table-engine.md",
     "newsite/Як-думаю-робити-модулі.md",
     "enegry/start_kit_enegry.md",
     "ffmpeg.md",
@@ -102,7 +101,6 @@
     "01_Template.md",
     "Без назви.md",
     "download_site.md",
-    "lozove/starlink-enegry.md",
-    "zoo/02.11.2022.md"
+    "lozove/starlink-enegry.md"
   ]
 }
