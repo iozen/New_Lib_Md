@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "14131ee80d0275c0",
+        "id": "36b77198dab7d388",
         "type": "tabs",
         "children": [
           {
-            "id": "f134603919182de5",
+            "id": "31d4c7f2825b1479",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "migrations_yii2.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "migration",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "migrations_yii2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f134603919182de5",
+  "active": "31d4c7f2825b1479",
   "lastOpenFiles": [
+    "yii2-migrate-longtext.md",
+    "yii2_migration_insert_value.md",
+    "yii_panel_default_admin_user_create_migration.md",
+    "migrations_yii2.md",
+    "01_Template.md",
+    "php-call-user-static-method.md",
     "yii2-migrate-table-engine.md",
     "newsite/Як-думаю-робити-модулі.md",
     "enegry/start_kit_enegry.md",
-    "ffmpeg.md",
-    "ls-t.md",
-    "enegry/powerbank.md",
-    "01_Template.md",
-    "Без назви.md",
-    "download_site.md",
-    "lozove/starlink-enegry.md"
+    "ffmpeg.md"
   ]
 }
