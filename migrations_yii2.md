@@ -17,3 +17,4 @@ public function up()
 $this->addColumn('{{%mods}}', 'img', $this->string(600));
 
 ~~~
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36b77198dab7d388",
+        "id": "e722c87e68f81b52",
         "type": "tabs",
         "children": [
           {
-            "id": "31d4c7f2825b1479",
+            "id": "21e7af355c2cc05b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "migrations_yii2.md",
+                "file": "php_short_foreach.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "migration",
+                "query": "php short",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "migrations_yii2.md",
+                "file": "php_short_foreach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +95,26 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31d4c7f2825b1479",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню швидкого переходу": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Відкрити палітру команд": false,
+      "markdown-importer:Імпорт Markdown-файлів": false
+    }
+  },
+  "active": "21e7af355c2cc05b",
   "lastOpenFiles": [
+    "yii-lang-makelinks.md",
+    "php_short_foreach.md",
     "yii2-migrate-longtext.md",
-    "yii2_migration_insert_value.md",
-    "yii_panel_default_admin_user_create_migration.md",
-    "migrations_yii2.md",
-    "01_Template.md",
-    "php-call-user-static-method.md",
-    "yii2-migrate-table-engine.md",
-    "newsite/Як-думаю-робити-модулі.md",
-    "enegry/start_kit_enegry.md",
-    "ffmpeg.md"
+    "maridb.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
+    "git_cannot_push.md",
+    "clear_table_sql.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_composer_debain_11.md",
+    "install_mariadb_debian11.md"
   ]
 }
