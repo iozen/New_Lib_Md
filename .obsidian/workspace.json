@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c253821ccd28ebd",
+            "id": "8f300b4af80533a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "php_short_foreach.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "css",
+                "query": "php short",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "php_short_foreach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +105,17 @@
       "markdown-importer:Імпорт Markdown-файлів": false
     }
   },
-  "active": "8c253821ccd28ebd",
+  "active": "8f300b4af80533a9",
   "lastOpenFiles": [
+    "CRM/CRM_project.md",
+    "CRM/task.md",
+    "01_Template.md",
+    "local-doc.html.md",
+    "you_deb_packet.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
     "Велика_курка.md",
     "Увага_концепт.md",
-    "coza_shop/cart_css_base_and_custom.md",
-    "connect_yii2_advanced_to_db.md",
-    "you_deb_packet.md",
-    "php_short_foreach.md",
-    "install_yii2_ckeditor_elfinder_redactor.md",
-    "video_html.md",
-    "yii-lang-makelinks.md",
-    "yii2-migrate-longtext.md"
+    "coza_shop/cart_css_base_and_custom.md"
   ]
 }
