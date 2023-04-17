@@ -1,5 +1,11 @@
 #replace #global
 
+~~~bash 
+sed -i 's/old-word/new-word/g' $(grep -rl 'old-word')
+~~~
+
+
+
 sed -i 's/foo/bar/g' *
 Вхождения "foo" будут заменены на "bar".
 

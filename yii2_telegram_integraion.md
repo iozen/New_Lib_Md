@@ -6,6 +6,11 @@ https://github.com/akbarjoudi/yii2-bot-telegram
 
 Either run
 
+```bash
+composer require aki/yii2-bot-telegram "*"
+```
+
+
 ```
 php composer.phar require aki/yii2-bot-telegram "*"
 ```

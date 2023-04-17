@@ -25,6 +25,8 @@ sudo systemctl enable php-fpm
 sudo systemctl start php-fpm 
 sudo systemctl status php-fpm
 
+sudo systemctl restart php8.1-fpm.service
+
 ```
 
 ## включити потрібні модулі 

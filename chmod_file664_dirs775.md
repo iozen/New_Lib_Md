@@ -1,5 +1,14 @@
 
 ~~~bash
+
+chmod 775 $(find . -type d)
+chmod 644 $(find . -type f)
+
+
+
+
+
+
 find . -type d -exec chmod 775 {} \;
 ~~~
 

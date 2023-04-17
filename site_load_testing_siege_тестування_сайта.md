@@ -1,3 +1,7 @@
+~~~bash
+siege -t40S shemp.whoohoo.com/Admin.jsp -d1 -r10 -c25
+~~~
+
 siege -u shemp.whoohoo.com/Admin.jsp -d1 -r10 -c25
 
 d1 задержка

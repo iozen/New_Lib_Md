@@ -4,6 +4,11 @@
 2>/dev/null
 
 
+./error.sh 2> capture.txt
+./error.sh 1> capture.txt 2> error.txt
+
+
+
                    Что такое stdin, stdout и stderr в Linux?
 
    Spread the love
