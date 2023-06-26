@@ -1,15 +1,11 @@
 
 ~~~bash
 
-chmod 775 $(find . -type d)
+chmod 755 $(find . -type d)
 chmod 644 $(find . -type f)
 
 
-
-
-
-
-find . -type d -exec chmod 775 {} \;
+find . -type d -exec chmod 755 {} \;
 ~~~
 
 For files only do this.  

@@ -3,6 +3,10 @@
 
 ~~~php 
 
+
+<?= $form->field($model, 'description')->textarea(['rows' => '10']) ?>
+
+
 <?= $form->field($model, 'password')->passwordInput() ?>
 
 <?= $form->field($model, 'username')->textInput()->hint('Please enter your name')->label('Name') ?>
@@ -13,6 +17,7 @@
 
 <?= $form->field($model, 'email')->input('color') ?>
 
+<?= $form->field($model, 'color')->input('color', ['value'=>$productDetails->color]) ?>
 
 echo $form->field($model, 'uploadFile[]')->fileInput(['multiple'=>'multiple']);
 

@@ -91,9 +91,3 @@ location ~ \.php$ {
 sudo systemctl reload nginx
 ```
 
-
-
-
-
-
-
