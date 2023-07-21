@@ -22,8 +22,14 @@
 echo $form->field($model, 'uploadFile[]')->fileInput(['multiple'=>'multiple']);
 
 
+
+<?= $form->field($model, 'rememberMe')->checkbox();
+
+
 // allow multiple items to be checked:
 echo $form->field($model, 'items[]')->checkboxList(['a' => 'Item A', 'b' => 'Item B', 'c' => 'Item C']);
+
+
 
 echo $form->field($model, 'category')->dropdownList([
 1 => 'item 1',

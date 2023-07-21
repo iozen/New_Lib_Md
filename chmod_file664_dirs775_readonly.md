@@ -1,3 +1,5 @@
+#bash #readonly #chmod_dir_files
+
 
 ~~~bash
 
@@ -6,6 +8,17 @@ chmod 644 $(find . -type f)
 
 
 find . -type d -exec chmod 755 {} \;
+~~~
+
+how to disable Read Only in terminal
+
+~~~bash
+
+chmod -R +w <directory_path>
+chmod +w <file_or_directory>
+chmod +w ~/example.txt
+
+
 ~~~
 
 For files only do this.  

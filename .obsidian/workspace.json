@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f09193af45aaaffa",
+        "id": "490fa6fa45448105",
         "type": "tabs",
         "children": [
           {
-            "id": "fdba70ede6996967",
+            "id": "2fa98bc289924a98",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "migration",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 451.5
   },
   "right": {
     "id": "41ccae50286d4a8a",
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -107,34 +106,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fdba70ede6996967",
+  "active": "2fa98bc289924a98",
   "lastOpenFiles": [
-    "Dockerfile.md",
-    "render_view_yii2.md",
-    "yii2_baseurl.md",
-    "yii2-migrate-longtext.md",
-    "chmod_file664_dirs775.md",
-    "chmod_details.md",
-    "promps_chess.md",
-    "yii2-migrate-table-engine.md",
-    "yii2_migration_insert_value.md",
-    "install_site.md",
+    "Update_pacman_and_distr.md",
     "migrations_yii2.md",
+    "yii2-migrate-longtext.md",
+    "yii2_migration_insert_value.md",
+    "yii_panel_default_admin_user_create_migration.md",
+    "yii2_telegram_integraion.md",
+    "yt-dlp.md",
     "php_short_foreach.md",
     "yii2_inputs_shortcode.md",
-    "Docker.md",
-    "install_nginx_php_debian_11.md",
+    "yii2_how_put_data_layouts.md",
+    "yii2_form_inputs.md",
+    "yii2_data_formater.md",
+    "redactor_yii2.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
+    "chmod_file664_dirs775_readonly.md",
+    "chmod_details.md",
+    "zip_rar_archive.md",
+    "render_view_yii2.md",
+    "install_site.md",
+    "yii2-migrate-table-engine.md",
+    "html_special_symbols.md",
+    "install_setup_domain_nginx.md",
     "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "install_composer_debain_11.md",
-    "install_certbot.md",
-    "date_format_php.md",
-    "imagine_resize.md",
+    "install_nginx_php_debian_11.md",
     "01_Template.md",
-    "caca_video_in_terminal.md",
-    "Винахід.md",
-    "new_post_about_time.md",
-    "Без назви.md",
-    "STDIN_STDOUT.md",
+    "date_format_php.md",
     "main-qimg-856f24deaefc89ad11ac04b3ecbc637f-pjlq.jpeg",
     "Pasted image 20230419163620.png",
     "Pasted image 20230419163605.png",
