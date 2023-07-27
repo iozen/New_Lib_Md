@@ -11,8 +11,12 @@
             "id": "d26081aea55e6b33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "gnome_tilign.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 323.51103591918945
   },
   "right": {
     "id": "41ccae50286d4a8a",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gnome_tilign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -108,6 +114,7 @@
   },
   "active": "d26081aea55e6b33",
   "lastOpenFiles": [
+    "gnome_keys_setup.md",
     "gnome_tilign.md",
     "Update_pacman_and_distr.md",
     "migrations_yii2.md",
@@ -133,7 +140,6 @@
     "install_setup_domain_nginx.md",
     "install_server_debian_11_nginx_php_mariadb_yii2.md",
     "install_nginx_php_debian_11.md",
-    "01_Template.md",
     "main-qimg-856f24deaefc89ad11ac04b3ecbc637f-pjlq.jpeg",
     "Pasted image 20230419163620.png",
     "Pasted image 20230419163605.png",
