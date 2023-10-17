@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b299d42703e3c08f",
+        "id": "d421a250460e37ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e56874709e425eb0",
+            "id": "98c0d5d213574143",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "registerJsFile",
+                "query": "yt-dlp",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9ce4ac47160556c1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -107,37 +117,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e56874709e425eb0",
+  "active": "98c0d5d213574143",
   "lastOpenFiles": [
-    "adding_js_yii2.md",
-    "css_adding_style_to_Second_element.md",
-    "custom_layout_yii2_controller.md",
-    "php_short_foreach.md",
-    "render_view_yii2.md",
-    "yii2_render_view.md",
-    "html_special_symbols.md",
-    "zip_rar_archive.md",
-    "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "install_certbot.md",
-    "install_composer_debain_11.md",
-    "install_mariadb_debian11.md",
-    "install_nginx_php_debian_11.md",
-    "gnome_keys_setup.md",
-    "gnome_tilign.md",
-    "Update_pacman_and_distr.md",
-    "migrations_yii2.md",
-    "yii2-migrate-longtext.md",
-    "yii2_migration_insert_value.md",
-    "yii_panel_default_admin_user_create_migration.md",
-    "yii2_telegram_integraion.md",
+    "lozove_zboru.md",
     "yt-dlp.md",
+    "display_off_.md",
     "yii2_inputs_shortcode.md",
-    "yii2_how_put_data_layouts.md",
-    "yii2_form_inputs.md",
-    "yii2_data_formater.md",
-    "main-qimg-856f24deaefc89ad11ac04b3ecbc637f-pjlq.jpeg",
+    "php_short_foreach.md",
+    "ffmpeg.md",
+    "yii2_telegram_integraion.md",
+    "yii2_render_view.md",
+    "webpage_in_terminal_render_web_in_terminal.md",
+    "render_view_yii2.md",
+    "yii2_baseurl.md",
+    "delete_all_except_text.md",
+    "Vim_tips.md",
+    "vim_видалити_все_крім.md",
+    "screenshoot_for_wayland.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
+    "redactor_yii2.md",
+    "yii2_code_editor.md",
+    "facebook_video_download.md",
+    "yii2-migrate-longtext.md",
+    "yii2-migrate-table-engine.md",
+    "yii2_rules_form_model.md",
+    "install_site.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_recapcha_yii2_composer.md",
+    "get_userdata_yii2.md",
     "Pasted image 20230419163620.png",
     "Pasted image 20230419163605.png",
+    "Pasted image 20221204132515.png",
+    "Pasted image 20221123234404.png",
+    "Pasted image 20221123234328.png",
+    "Pasted image 20221123234017.png",
+    "Pasted image 20221106104608.png",
+    "Pasted image 20221101100203.png",
+    "Pasted image 20221101093442.png",
+    "Pasted image 20221101093416.png",
     "Без назви.canvas"
   ]
 }

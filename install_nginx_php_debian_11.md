@@ -18,6 +18,11 @@ sudo systemctl status nginx
 sudo systemctl enable php7.4-fpm 
 sudo systemctl start php7.4-fpm 
 sudo systemctl status php7.4-fpm
+
+sudo systemctl enable php8.2-fpm 
+sudo systemctl start php8.2-fpm 
+sudo systemctl status php8.2-fpm
+
 ```
 Або 
 ```
