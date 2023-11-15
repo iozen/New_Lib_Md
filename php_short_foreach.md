@@ -3,11 +3,25 @@
 
 ~~~php
 <?php foreach ($products as $v): ?>
+<?php endforeach; ?>
+
 ~~~
 
 
 ~~~php
+
+
+<?php foreach ($products as $v): ?>
+
+
+
 <?php endforeach; ?>
+~~~
+
+
+~~~php
+<?php if ($a == 5): ?>  
+ <?php endif; ?>
 ~~~
 
 

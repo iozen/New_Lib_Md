@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d421a250460e37ad",
+        "id": "74a7251be17d5b64",
         "type": "tabs",
         "children": [
           {
-            "id": "98c0d5d213574143",
+            "id": "ba9db54338c29c3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "html_special_symbols.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yt-dlp",
+                "query": "html",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "html_special_symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -117,34 +122,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "98c0d5d213574143",
+  "active": "ba9db54338c29c3a",
   "lastOpenFiles": [
+    "01_Template.md",
+    "imagine_resize.md",
+    "html_special_symbols.md",
+    "php_short_foreach.md",
+    "yii2_inputs_shortcode.md",
+    "migrations_yii2.md",
+    "CRM/CRM_project.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
+    "php7.4-php8.2.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_composer_debain_11.md",
+    "install_nginx_php_debian_11.md",
+    "get_userdata_yii2.md",
+    "delete_all_except_text.md",
+    "facebook_video_download.md",
+    "install_site.md",
+    "install_setup_domain_nginx.md",
+    "install_certbot.md",
+    "install_mariadb_debian11.md",
+    "focus_фокус.md",
+    "Untitled.md",
     "lozove_zboru.md",
     "yt-dlp.md",
     "display_off_.md",
-    "yii2_inputs_shortcode.md",
-    "php_short_foreach.md",
     "ffmpeg.md",
     "yii2_telegram_integraion.md",
-    "yii2_render_view.md",
-    "webpage_in_terminal_render_web_in_terminal.md",
-    "render_view_yii2.md",
-    "yii2_baseurl.md",
-    "delete_all_except_text.md",
-    "Vim_tips.md",
-    "vim_видалити_все_крім.md",
-    "screenshoot_for_wayland.md",
-    "install_yii2_ckeditor_elfinder_redactor.md",
-    "redactor_yii2.md",
-    "yii2_code_editor.md",
-    "facebook_video_download.md",
-    "yii2-migrate-longtext.md",
-    "yii2-migrate-table-engine.md",
-    "yii2_rules_form_model.md",
-    "install_site.md",
-    "install_server_debian_11_nginx_php_mariadb_yii2.md",
-    "install_recapcha_yii2_composer.md",
-    "get_userdata_yii2.md",
     "Pasted image 20230419163620.png",
     "Pasted image 20230419163605.png",
     "Pasted image 20221204132515.png",
