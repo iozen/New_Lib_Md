@@ -10,20 +10,26 @@ how to configurate buttons
 
 all code: 
 
-~~~php 
-
+```php 
 <?= GridView::widget([
     'dataProvider' => $dataProvider,
     'columns' => [
-        ['class' => 'yii\grid\SerialColumn'],
-        .
-        .
-        .
-        .
+        // Other columns...
         [
-         'class' => 'yii\grid\ActionColumn',
-        'template' => '{view} {delete}',
-       ],
-]); ?>
+            'class' => 'yii\grid\ActionColumn',
+            'template' => '{view} {update} {delete} {custom}', // Define template including your custom button
+            'buttons' => [
+                'custom' => function ($url, $model, $key) use ($event_id)
+{
+                    return Html::a('<span class="glyphicon glyphicon-flag"></span>', ['controller/action', 'id' => $model->id, 'event_id'=>$event_id], [
+                        'title' => Yii::t('yii', 'Custom Action'),
+                        // Add any other HTML options for your button
+                    ]);
+                },
+            ],
+        ],
+    ],
+]); 
+?>
+```
 
-~~~

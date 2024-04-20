@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "133b6362a8a8acc1",
+            "id": "a91e2cd50316ec01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "install_yii2_ckeditor_elfinder_redactor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbcbdb6320d47647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yii2_telegram_integraion.md",
+                "file": "install_server_debian_11_nginx_php_mariadb_yii2.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image zoom",
+                "query": "install",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yii2_telegram_integraion.md",
+                "file": "install_server_debian_11_nginx_php_mariadb_yii2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,35 +140,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cbcbdb6320d47647",
+  "active": "a91e2cd50316ec01",
   "lastOpenFiles": [
+    "install_setup_domain_nginx.md",
+    "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "install_certbot.md",
+    "install_mariadb_debian11.md",
+    "install_nginx_php_debian_11.md",
+    "zip_rar_archive.md",
+    "yii2_inputs_shortcode.md",
+    "imagine_resize.md",
+    "yii2_telegram_integraion.md",
+    "html_special_symbols.md",
+    "replace_in_files_global_grep+sed_global_replace.md",
+    "php_short_foreach.md",
+    "install_site.md",
+    "yii2-migrate-table-engine.md",
+    "yii2-migrate-longtext.md",
+    "yii2_grid_view_buttons_config.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
     "clear_js_image_zoom.md",
     "image_zoom.md",
-    "yii2_inputs_shortcode.md",
-    "html_special_symbols.md",
-    "php_short_foreach.md",
     "01_Template.md",
     "local-doc.html.md",
-    "yii2_telegram_integraion.md",
-    "install_yii2_ckeditor_elfinder_redactor.md",
     "migrations_yii2.md",
     "render_view_yii2.md",
     "delete_all_except_text.md",
     "adding_js_yii2.md",
-    "replace_in_files_global_grep+sed_global_replace.md",
     "full_sed_2.md",
-    "maridb.md",
-    "facebook_video_download.md",
-    "lozove/lozove_tarifi.md",
-    "yii2-migrate-longtext.md",
-    "numbers/дільничий.md",
-    "links.md",
-    "lozove_site.md",
     "numbers",
-    "install_recapcha_yii2_composer.md",
-    "install_setup_domain_nginx.md",
-    "install_nginx_php_debian_11.md",
-    "sql_export_to_csv_mariadb_mysql.md",
     "Pasted image 20231212142845.png",
     "Pasted image 20230419163620.png",
     "Pasted image 20230419163605.png",
