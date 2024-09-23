@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "a91e2cd50316ec01",
+            "id": "d41d44a4e9a1937f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "install_server_debian_11_nginx_php_mariadb_yii2.md",
-                "mode": "preview",
+                "file": "00_jornal/23.09.24.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "install",
+                "query": "server",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "install_server_debian_11_nginx_php_mariadb_yii2.md",
+                "file": "00_jornal/23.09.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,34 +140,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a91e2cd50316ec01",
+  "active": "d41d44a4e9a1937f",
   "lastOpenFiles": [
-    "install_setup_domain_nginx.md",
+    "php_short_foreach.md",
+    "00_jornal/23.09.24.md",
     "install_server_debian_11_nginx_php_mariadb_yii2.md",
+    "00_jornal",
     "install_certbot.md",
+    "install_composer_debain_11.md",
     "install_mariadb_debian11.md",
     "install_nginx_php_debian_11.md",
-    "zip_rar_archive.md",
+    "install_site.md",
+    "migrations_yii2.md",
+    "yii_panel_default_admin_user_create_migration.md",
+    "yii2_migration_insert_value.md",
+    "yii2-migrate-longtext.md",
+    "yii2-migrate-table-engine.md",
+    "yii2_form_inputs.md",
+    "custom_layout_yii2_controller.md",
+    "talk.md",
     "yii2_inputs_shortcode.md",
+    "html_special_symbols.md",
+    "maridb.md",
+    "install_yii2_ckeditor_elfinder_redactor.md",
+    "Cat.md",
+    "zip_rar_archive.md",
+    "install_setup_domain_nginx.md",
     "imagine_resize.md",
     "yii2_telegram_integraion.md",
-    "html_special_symbols.md",
     "replace_in_files_global_grep+sed_global_replace.md",
-    "php_short_foreach.md",
-    "install_site.md",
-    "yii2-migrate-table-engine.md",
-    "yii2-migrate-longtext.md",
-    "yii2_grid_view_buttons_config.md",
-    "install_yii2_ckeditor_elfinder_redactor.md",
-    "clear_js_image_zoom.md",
-    "image_zoom.md",
-    "01_Template.md",
-    "local-doc.html.md",
-    "migrations_yii2.md",
-    "render_view_yii2.md",
-    "delete_all_except_text.md",
-    "adding_js_yii2.md",
-    "full_sed_2.md",
     "numbers",
     "Pasted image 20231212142845.png",
     "Pasted image 20230419163620.png",
