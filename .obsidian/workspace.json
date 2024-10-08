@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d41d44a4e9a1937f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_jornal/23.09.24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server",
+                "query": "html sym",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_jornal/23.09.24.md",
+                "file": "php_short_foreach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +128,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d41d44a4e9a1937f",
+  "active": "e0965d9e582edde2",
   "lastOpenFiles": [
+    "html_special_symbols.md",
+    "00_jornal/8.10.24.md",
+    "facebook_video_download.md",
     "php_short_foreach.md",
+    "lozove/streets_2024-septermber.md",
+    "Pasted image 20241004155245.png",
+    "lozove/зробити_відео_стосовно_розвитку.md",
+    "01_Template.md",
+    "00_jornal/2.10.24.md",
+    "Pasted image 20241002153436.png",
+    "00_jornal/1.10.24.md",
+    "Pasted image 20241001194930.png",
+    "00_jornal/29.09.24.md",
+    "Pasted image 20240929094438.png",
+    "anna_frank_quote.md",
+    "00_jornal/26.09.24.md",
+    "Pasted image 20240926173633.png",
+    "00_jornal/24.09.24.md",
     "00_jornal/23.09.24.md",
     "install_server_debian_11_nginx_php_mariadb_yii2.md",
     "00_jornal",
@@ -157,29 +162,12 @@
     "yii2-migrate-longtext.md",
     "yii2-migrate-table-engine.md",
     "yii2_form_inputs.md",
-    "custom_layout_yii2_controller.md",
-    "talk.md",
-    "yii2_inputs_shortcode.md",
-    "html_special_symbols.md",
-    "maridb.md",
-    "install_yii2_ckeditor_elfinder_redactor.md",
-    "Cat.md",
-    "zip_rar_archive.md",
-    "install_setup_domain_nginx.md",
-    "imagine_resize.md",
-    "yii2_telegram_integraion.md",
-    "replace_in_files_global_grep+sed_global_replace.md",
     "numbers",
     "Pasted image 20231212142845.png",
     "Pasted image 20230419163620.png",
     "Pasted image 20230419163605.png",
     "Pasted image 20221204132515.png",
     "Pasted image 20221123234404.png",
-    "Pasted image 20221123234328.png",
-    "Pasted image 20221123234017.png",
-    "Pasted image 20221106104608.png",
-    "Pasted image 20221101100203.png",
-    "Pasted image 20221101093442.png",
     "Без назви.canvas"
   ]
 }
